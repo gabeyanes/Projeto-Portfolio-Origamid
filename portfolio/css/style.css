@@ -1,0 +1,8 @@
+@import './header.css';
+@import './global.css';
+@import './introducao.css';
+@import './experiencia.css';
+
+html{
+    scroll-behavior: smooth;
+}
